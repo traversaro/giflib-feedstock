@@ -3,7 +3,7 @@ About giflib-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/giflib-feedstock/blob/main/LICENSE.txt)
 
-Home: http://giflib.sourceforge.net
+Home: https://giflib.sourceforge.net/
 
 Package license: MIT
 
