@@ -6,8 +6,6 @@ channel_sources:
 - conda-forge
 channel_targets:
 - conda-forge main
-giflib:
-- '5.2'
 target_platform:
 - win-arm64
 vc:
